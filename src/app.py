@@ -32,6 +32,9 @@ model, scaler = load_assets()
 # Feature Engineering (UNCHANGED)
 # =====================================================
 def extract_session_features(df):
+    if df.empty:
+        return pd.DataFrame(columns=["session_id","nt_count","trans2_count","duration"])
+    
     df["time"] = pd.to_datetime(df["time"], unit="s", errors="coerce")
 
     df["session_id"] = (
@@ -105,7 +108,7 @@ if mode == "🧪 Simulation (Real Data Flow)":
 
     # Optional normal traffic
     if not attack_mode:
-        add_packet("0x25", base_time + 20)  # harmless SMB cmd
+        add_packet("0x25", base_time + nt_count + trans2_count + 1)  # harmless SMB cmd
 
     df_simulated = pd.DataFrame(rows)
 
@@ -123,19 +126,21 @@ if mode == "🧪 Simulation (Real Data Flow)":
     # ----------------------------
     # SAME ML PIPELINE
     # ----------------------------
-    X = session_df[["nt_count", "trans2_count", "duration"]]
-    X_scaled = scaler.transform(X)
-    pred = model.predict(X_scaled)[0]
+    if not session_df.empty:
+        X = session_df[["nt_count", "trans2_count", "duration"]]
+        X_scaled = scaler.transform(X)
+        pred = model.predict(X_scaled)[0]
 
-    st.markdown("### 🧠 Model Decision")
+        st.markdown("### 🧠 Model Decision")
 
-    if pred == 1:
-        st.error("🚨 EternalBlue Detected (Simulation)")
+        if pred == 1:
+            st.error("🚨 EternalBlue Detected (Simulation)")
+        else:
+            st.success("✅ Normal SMB Behavior")
     else:
-        st.success("✅ Normal SMB Behavior")
+        st.info("⚠️ No sessions generated for simulation")
 
     st.info("✔ This simulation goes through the **same data path** as real PCAP/CSV")
-
     st.stop()
 
 # =====================================================
