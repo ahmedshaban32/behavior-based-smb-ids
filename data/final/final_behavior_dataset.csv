@@ -1,5 +1,5 @@
 session_id,nt_count,trans2_count,duration,label
-../data/processed/csv/attack\attacktraffic1.csv_192.168.138.181_192.168.138.191_35873.0,1,0,10.132804,0
+../data/processed/csv/attack\attacktraffic1.csv_192.168.138.181_192.168.138.191_35873.0,1,8,10.132804,1
 ../data/processed/csv/attack\attacktraffic1.csv_192.168.138.181_192.168.138.191_37101.0,0,0,0.000545,0
 ../data/processed/csv/attack\attacktraffic1.csv_192.168.138.181_192.168.138.191_39573.0,0,1,0.967116,0
 ../data/processed/csv/attack\attacktraffic1.csv_192.168.138.181_192.168.138.191_4444.0,0,0,2.856621,0
@@ -10,7 +10,7 @@ session_id,nt_count,trans2_count,duration,label
 ../data/processed/csv/attack\attacktraffic10.csv_151.101.65.91_192.168.138.181_443.0,0,0,2.304404,0
 ../data/processed/csv/attack\attacktraffic10.csv_192.168.138.181_151.101.65.91_53254.0,0,0,2.3566409999999998,0
 ../data/processed/csv/attack\attacktraffic10.csv_192.168.138.181_151.101.65.91_53262.0,0,0,0.301656,0
-../data/processed/csv/attack\attacktraffic10.csv_192.168.138.181_192.168.138.184_32953.0,1,0,10.082894,0
+../data/processed/csv/attack\attacktraffic10.csv_192.168.138.181_192.168.138.184_32953.0,1,8,10.082894,1
 ../data/processed/csv/attack\attacktraffic10.csv_192.168.138.181_192.168.138.184_40571.0,0,0,0.000589,0
 ../data/processed/csv/attack\attacktraffic10.csv_192.168.138.181_192.168.138.184_4444.0,0,0,63.95664,0
 ../data/processed/csv/attack\attacktraffic10.csv_192.168.138.181_192.168.138.184_46287.0,0,1,0.927,0
@@ -61,7 +61,7 @@ session_id,nt_count,trans2_count,duration,label
 ../data/processed/csv/attack\attacktraffic11.csv_192.168.138.181_192.168.138.184_43409.0,0,0,0.026673,0
 ../data/processed/csv/attack\attacktraffic11.csv_192.168.138.181_192.168.138.184_44369.0,0,0,0.069659,0
 ../data/processed/csv/attack\attacktraffic11.csv_192.168.138.181_192.168.138.184_4444.0,0,0,67.511724,0
-../data/processed/csv/attack\attacktraffic11.csv_192.168.138.181_192.168.138.184_44445.0,1,0,10.192126,0
+../data/processed/csv/attack\attacktraffic11.csv_192.168.138.181_192.168.138.184_44445.0,1,9,10.192126,1
 ../data/processed/csv/attack\attacktraffic11.csv_192.168.138.181_192.168.138.184_44815.0,0,0,0.065462,0
 ../data/processed/csv/attack\attacktraffic11.csv_192.168.138.181_192.168.138.184_45255.0,0,0,0.008154,0
 ../data/processed/csv/attack\attacktraffic11.csv_192.168.138.181_192.168.138.184_45933.0,0,0,0.006703,0
@@ -87,7 +87,7 @@ session_id,nt_count,trans2_count,duration,label
 ../data/processed/csv/attack\attacktraffic12.csv_192.168.138.181_192.168.138.184_34189.0,0,0,0.075507,0
 ../data/processed/csv/attack\attacktraffic12.csv_192.168.138.181_192.168.138.184_34247.0,0,0,0.017407,0
 ../data/processed/csv/attack\attacktraffic12.csv_192.168.138.181_192.168.138.184_34431.0,0,0,0.015221,0
-../data/processed/csv/attack\attacktraffic12.csv_192.168.138.181_192.168.138.184_34921.0,1,0,10.080633,0
+../data/processed/csv/attack\attacktraffic12.csv_192.168.138.181_192.168.138.184_34921.0,1,9,10.080633,1
 ../data/processed/csv/attack\attacktraffic12.csv_192.168.138.181_192.168.138.184_35091.0,0,0,0.080755,0
 ../data/processed/csv/attack\attacktraffic12.csv_192.168.138.181_192.168.138.184_35389.0,0,0,0.034537,0
 ../data/processed/csv/attack\attacktraffic12.csv_192.168.138.181_192.168.138.184_36341.0,0,0,0.009792,0
@@ -121,7 +121,7 @@ session_id,nt_count,trans2_count,duration,label
 ../data/processed/csv/attack\attacktraffic12.csv_192.168.138.181_192.168.138.184_44343.0,0,0,0.020923,0
 ../data/processed/csv/attack\attacktraffic12.csv_192.168.138.181_192.168.138.184_4444.0,0,0,193.466947,0
 ../data/processed/csv/attack\attacktraffic12.csv_192.168.138.181_192.168.138.184_44631.0,0,0,0.022642,0
-../data/processed/csv/attack\attacktraffic12.csv_192.168.138.181_192.168.138.184_44669.0,1,0,10.191688,0
+../data/processed/csv/attack\attacktraffic12.csv_192.168.138.181_192.168.138.184_44669.0,1,8,10.191688,1
 ../data/processed/csv/attack\attacktraffic12.csv_192.168.138.181_192.168.138.184_44687.0,0,0,0.018515,0
 ../data/processed/csv/attack\attacktraffic12.csv_192.168.138.181_192.168.138.184_45513.0,0,0,0.059393,0
 ../data/processed/csv/attack\attacktraffic12.csv_192.168.138.181_192.168.138.184_45557.0,0,0,0.016596,0
@@ -171,7 +171,7 @@ session_id,nt_count,trans2_count,duration,label
 ../data/processed/csv/attack\attacktraffic13.csv_192.168.138.181_192.168.138.184_36095.0,0,0,0.078703,0
 ../data/processed/csv/attack\attacktraffic13.csv_192.168.138.181_192.168.138.184_36181.0,0,0,0.000649,0
 ../data/processed/csv/attack\attacktraffic13.csv_192.168.138.181_192.168.138.184_36385.0,0,0,0.083131,0
-../data/processed/csv/attack\attacktraffic13.csv_192.168.138.181_192.168.138.184_37949.0,1,0,10.18381,0
+../data/processed/csv/attack\attacktraffic13.csv_192.168.138.181_192.168.138.184_37949.0,1,8,10.18381,1
 ../data/processed/csv/attack\attacktraffic13.csv_192.168.138.181_192.168.138.184_38101.0,0,0,0.046803,0
 ../data/processed/csv/attack\attacktraffic13.csv_192.168.138.181_192.168.138.184_38267.0,0,0,0.008041,0
 ../data/processed/csv/attack\attacktraffic13.csv_192.168.138.181_192.168.138.184_38661.0,0,0,0.0112,0
@@ -196,7 +196,7 @@ session_id,nt_count,trans2_count,duration,label
 ../data/processed/csv/attack\attacktraffic13.csv_nan_nan_nan,0,0,22.993126,0
 ../data/processed/csv/attack\attacktraffic14.csv_192.168.138.181_192.168.138.184_33417.0,0,0,0.001003,0
 ../data/processed/csv/attack\attacktraffic14.csv_192.168.138.181_192.168.138.184_34001.0,0,1,0.95479,0
-../data/processed/csv/attack\attacktraffic14.csv_192.168.138.181_192.168.138.184_39843.0,1,0,10.075322,0
+../data/processed/csv/attack\attacktraffic14.csv_192.168.138.181_192.168.138.184_39843.0,1,8,10.075322,1
 ../data/processed/csv/attack\attacktraffic14.csv_192.168.138.181_192.168.138.184_4444.0,0,0,110.508585,0
 ../data/processed/csv/attack\attacktraffic14.csv_192.168.138.181_192.168.138.2_nan,0,0,3.092376,0
 ../data/processed/csv/attack\attacktraffic14.csv_192.168.138.181_196.49.100.58_nan,0,0,97.249888,0
@@ -213,7 +213,7 @@ session_id,nt_count,trans2_count,duration,label
 ../data/processed/csv/attack\attacktraffic14.csv_nan_nan_nan,0,0,79.922084,0
 ../data/processed/csv/attack\attacktraffic15.csv_192.168.138.181_192.168.138.187_35301.0,0,0,0.000631,0
 ../data/processed/csv/attack\attacktraffic15.csv_192.168.138.181_192.168.138.187_35961.0,0,1,0.90535,0
-../data/processed/csv/attack\attacktraffic15.csv_192.168.138.181_192.168.138.187_38265.0,1,0,10.127473,0
+../data/processed/csv/attack\attacktraffic15.csv_192.168.138.181_192.168.138.187_38265.0,1,7,10.127473,1
 ../data/processed/csv/attack\attacktraffic15.csv_192.168.138.181_192.168.138.187_4444.0,0,0,13.915574,0
 ../data/processed/csv/attack\attacktraffic15.csv_192.168.138.181_192.168.138.1_80.0,0,0,0.508868,0
 ../data/processed/csv/attack\attacktraffic15.csv_192.168.138.187_192.168.138.181_135.0,0,0,0.000469,0
@@ -233,7 +233,7 @@ session_id,nt_count,trans2_count,duration,label
 ../data/processed/csv/attack\attacktraffic16.csv_192.168.138.181_192.168.138.184_36595.0,0,0,0.067135,0
 ../data/processed/csv/attack\attacktraffic16.csv_192.168.138.181_192.168.138.184_36935.0,0,0,0.049634,0
 ../data/processed/csv/attack\attacktraffic16.csv_192.168.138.181_192.168.138.184_40099.0,0,0,0.021998,0
-../data/processed/csv/attack\attacktraffic16.csv_192.168.138.181_192.168.138.184_40391.0,1,0,10.175455,0
+../data/processed/csv/attack\attacktraffic16.csv_192.168.138.181_192.168.138.184_40391.0,1,8,10.175455,1
 ../data/processed/csv/attack\attacktraffic16.csv_192.168.138.181_192.168.138.184_40815.0,0,0,0.007299,0
 ../data/processed/csv/attack\attacktraffic16.csv_192.168.138.181_192.168.138.184_41937.0,0,0,0.037197,0
 ../data/processed/csv/attack\attacktraffic16.csv_192.168.138.181_192.168.138.184_42367.0,0,0,0.069417,0
@@ -278,7 +278,7 @@ session_id,nt_count,trans2_count,duration,label
 ../data/processed/csv/attack\attacktraffic17.csv_192.168.138.181_192.168.138.184_40921.0,0,0,0.017429,0
 ../data/processed/csv/attack\attacktraffic17.csv_192.168.138.181_192.168.138.184_41115.0,0,1,1.094222,0
 ../data/processed/csv/attack\attacktraffic17.csv_192.168.138.181_192.168.138.184_41465.0,0,0,0.006356,0
-../data/processed/csv/attack\attacktraffic17.csv_192.168.138.181_192.168.138.184_42047.0,1,0,10.06791,0
+../data/processed/csv/attack\attacktraffic17.csv_192.168.138.181_192.168.138.184_42047.0,1,9,10.06791,1
 ../data/processed/csv/attack\attacktraffic17.csv_192.168.138.181_192.168.138.184_4444.0,0,0,49.259991,0
 ../data/processed/csv/attack\attacktraffic17.csv_192.168.138.181_192.168.138.184_45051.0,0,0,0.005201,0
 ../data/processed/csv/attack\attacktraffic17.csv_192.168.138.181_192.168.138.184_45363.0,0,0,0.008191,0
@@ -329,7 +329,7 @@ session_id,nt_count,trans2_count,duration,label
 ../data/processed/csv/attack\attacktraffic18.csv_192.168.138.181_192.168.138.184_40439.0,0,0,0.005826,0
 ../data/processed/csv/attack\attacktraffic18.csv_192.168.138.181_192.168.138.184_40627.0,0,0,0.00426,0
 ../data/processed/csv/attack\attacktraffic18.csv_192.168.138.181_192.168.138.184_41189.0,0,0,0.007215,0
-../data/processed/csv/attack\attacktraffic18.csv_192.168.138.181_192.168.138.184_41359.0,1,0,10.080431,0
+../data/processed/csv/attack\attacktraffic18.csv_192.168.138.181_192.168.138.184_41359.0,1,9,10.080431,1
 ../data/processed/csv/attack\attacktraffic18.csv_192.168.138.181_192.168.138.184_43233.0,0,0,0.006466,0
 ../data/processed/csv/attack\attacktraffic18.csv_192.168.138.181_192.168.138.184_43405.0,0,0,0.018525,0
 ../data/processed/csv/attack\attacktraffic18.csv_192.168.138.181_192.168.138.184_44415.0,0,0,0.015149,0
@@ -366,7 +366,7 @@ session_id,nt_count,trans2_count,duration,label
 ../data/processed/csv/attack\attacktraffic19.csv_192.168.138.181_192.168.138.187_35933.0,0,0,0.057185,0
 ../data/processed/csv/attack\attacktraffic19.csv_192.168.138.181_192.168.138.187_36061.0,0,0,0.072073,0
 ../data/processed/csv/attack\attacktraffic19.csv_192.168.138.181_192.168.138.187_36117.0,0,0,0.075387,0
-../data/processed/csv/attack\attacktraffic19.csv_192.168.138.181_192.168.138.187_38391.0,1,0,10.181682,0
+../data/processed/csv/attack\attacktraffic19.csv_192.168.138.181_192.168.138.187_38391.0,1,9,10.181682,1
 ../data/processed/csv/attack\attacktraffic19.csv_192.168.138.181_192.168.138.187_38621.0,0,1,0.916875,0
 ../data/processed/csv/attack\attacktraffic19.csv_192.168.138.181_192.168.138.187_38879.0,0,0,0.037826,0
 ../data/processed/csv/attack\attacktraffic19.csv_192.168.138.181_192.168.138.187_39065.0,0,0,0.081737,0
@@ -408,7 +408,7 @@ session_id,nt_count,trans2_count,duration,label
 ../data/processed/csv/attack\attacktraffic2.csv_192.168.138.181_192.168.138.184_41101.0,0,0,0.091969,0
 ../data/processed/csv/attack\attacktraffic2.csv_192.168.138.181_192.168.138.184_41189.0,0,0,0.072129,0
 ../data/processed/csv/attack\attacktraffic2.csv_192.168.138.181_192.168.138.184_41293.0,0,0,0.012509,0
-../data/processed/csv/attack\attacktraffic2.csv_192.168.138.181_192.168.138.184_41767.0,1,0,10.164538,0
+../data/processed/csv/attack\attacktraffic2.csv_192.168.138.181_192.168.138.184_41767.0,1,8,10.164538,1
 ../data/processed/csv/attack\attacktraffic2.csv_192.168.138.181_192.168.138.184_42391.0,0,0,0.021638,0
 ../data/processed/csv/attack\attacktraffic2.csv_192.168.138.181_192.168.138.184_43111.0,0,0,0.027293,0
 ../data/processed/csv/attack\attacktraffic2.csv_192.168.138.181_192.168.138.184_44157.0,0,0,0.016878,0
@@ -464,7 +464,7 @@ session_id,nt_count,trans2_count,duration,label
 ../data/processed/csv/attack\attacktraffic2.csv_nan_nan_nan,0,0,215.956896,0
 ../data/processed/csv/attack\attacktraffic20.csv_192.168.138.181_192.168.138.187_33411.0,0,0,0.004608,0
 ../data/processed/csv/attack\attacktraffic20.csv_192.168.138.181_192.168.138.187_33571.0,0,1,1.01493,0
-../data/processed/csv/attack\attacktraffic20.csv_192.168.138.181_192.168.138.187_35053.0,1,0,10.079329,0
+../data/processed/csv/attack\attacktraffic20.csv_192.168.138.181_192.168.138.187_35053.0,1,9,10.079329,1
 ../data/processed/csv/attack\attacktraffic20.csv_192.168.138.181_192.168.138.187_35101.0,0,0,0.014178,0
 ../data/processed/csv/attack\attacktraffic20.csv_192.168.138.181_192.168.138.187_35909.0,0,0,0.007174,0
 ../data/processed/csv/attack\attacktraffic20.csv_192.168.138.181_192.168.138.187_36929.0,0,0,0.017652,0
@@ -506,7 +506,7 @@ session_id,nt_count,trans2_count,duration,label
 ../data/processed/csv/attack\attacktraffic21.csv_192.168.138.181_192.168.138.187_36833.0,0,0,0.103656,0
 ../data/processed/csv/attack\attacktraffic21.csv_192.168.138.181_192.168.138.187_38381.0,0,0,0.035538,0
 ../data/processed/csv/attack\attacktraffic21.csv_192.168.138.181_192.168.138.187_38661.0,0,0,0.066094,0
-../data/processed/csv/attack\attacktraffic21.csv_192.168.138.181_192.168.138.187_39393.0,1,0,10.177394,0
+../data/processed/csv/attack\attacktraffic21.csv_192.168.138.181_192.168.138.187_39393.0,1,9,10.177394,1
 ../data/processed/csv/attack\attacktraffic21.csv_192.168.138.181_192.168.138.187_39529.0,0,0,0.084405,0
 ../data/processed/csv/attack\attacktraffic21.csv_192.168.138.181_192.168.138.187_39971.0,0,0,0.107434,0
 ../data/processed/csv/attack\attacktraffic21.csv_192.168.138.181_192.168.138.187_40147.0,0,0,0.021709,0
@@ -958,7 +958,7 @@ session_id,nt_count,trans2_count,duration,label
 ../data/processed/csv/attack\attacktraffic21.csv_192.168.138.1_192.168.138.187_54813.0,0,0,0.504753,0
 ../data/processed/csv/attack\attacktraffic21.csv_192.168.138.1_192.168.138.255_nan,0,0,0.0,0
 ../data/processed/csv/attack\attacktraffic21.csv_nan_nan_nan,0,0,19.124294,0
-../data/processed/csv/attack\attacktraffic22.csv_192.168.138.181_192.168.138.187_32819.0,1,0,10.188811,0
+../data/processed/csv/attack\attacktraffic22.csv_192.168.138.181_192.168.138.187_32819.0,1,8,10.188811,1
 ../data/processed/csv/attack\attacktraffic22.csv_192.168.138.181_192.168.138.187_33027.0,0,0,0.038535,0
 ../data/processed/csv/attack\attacktraffic22.csv_192.168.138.181_192.168.138.187_34745.0,0,0,0.005771,0
 ../data/processed/csv/attack\attacktraffic22.csv_192.168.138.181_192.168.138.187_35345.0,0,0,0.010939,0
@@ -997,7 +997,7 @@ session_id,nt_count,trans2_count,duration,label
 ../data/processed/csv/attack\attacktraffic22.csv_nan_nan_nan,0,0,23.182661,0
 ../data/processed/csv/attack\attacktraffic23.csv_192.168.138.181_192.168.138.187_32923.0,0,0,0.085737,0
 ../data/processed/csv/attack\attacktraffic23.csv_192.168.138.181_192.168.138.187_33245.0,0,0,0.076667,0
-../data/processed/csv/attack\attacktraffic23.csv_192.168.138.181_192.168.138.187_33319.0,1,0,10.165423,0
+../data/processed/csv/attack\attacktraffic23.csv_192.168.138.181_192.168.138.187_33319.0,1,8,10.165423,1
 ../data/processed/csv/attack\attacktraffic23.csv_192.168.138.181_192.168.138.187_33415.0,0,0,0.028907,0
 ../data/processed/csv/attack\attacktraffic23.csv_192.168.138.181_192.168.138.187_34083.0,0,0,0.056043,0
 ../data/processed/csv/attack\attacktraffic23.csv_192.168.138.181_192.168.138.187_34987.0,0,0,0.06516,0
@@ -1036,7 +1036,7 @@ session_id,nt_count,trans2_count,duration,label
 ../data/processed/csv/attack\attacktraffic3.csv_192.168.138.181_151.101.65.91_57264.0,0,0,0.675088,0
 ../data/processed/csv/attack\attacktraffic3.csv_192.168.138.181_151.101.65.91_57272.0,0,0,0.503786,0
 ../data/processed/csv/attack\attacktraffic3.csv_192.168.138.181_192.168.138.184_33765.0,0,0,0.000694,0
-../data/processed/csv/attack\attacktraffic3.csv_192.168.138.181_192.168.138.184_34811.0,1,0,10.055393,0
+../data/processed/csv/attack\attacktraffic3.csv_192.168.138.181_192.168.138.184_34811.0,1,7,10.055393,1
 ../data/processed/csv/attack\attacktraffic3.csv_192.168.138.181_192.168.138.184_38077.0,0,1,0.519882,0
 ../data/processed/csv/attack\attacktraffic3.csv_192.168.138.181_192.168.138.184_4444.0,0,0,200.008298,0
 ../data/processed/csv/attack\attacktraffic3.csv_192.168.138.181_192.168.138.2_nan,0,0,2.632503,0
@@ -1066,7 +1066,7 @@ session_id,nt_count,trans2_count,duration,label
 ../data/processed/csv/attack\attacktraffic3.csv_41.205.142.133_192.168.138.181_nan,0,0,0.0,0
 ../data/processed/csv/attack\attacktraffic3.csv_nan_nan_nan,0,0,143.793636,0
 ../data/processed/csv/attack\attacktraffic4.csv_192.168.138.181_192.168.138.187_34637.0,0,0,0.027269,0
-../data/processed/csv/attack\attacktraffic4.csv_192.168.138.181_192.168.138.187_34891.0,1,0,10.174513,0
+../data/processed/csv/attack\attacktraffic4.csv_192.168.138.181_192.168.138.187_34891.0,1,8,10.174513,1
 ../data/processed/csv/attack\attacktraffic4.csv_192.168.138.181_192.168.138.187_35467.0,0,1,1.023093,0
 ../data/processed/csv/attack\attacktraffic4.csv_192.168.138.181_192.168.138.187_35471.0,0,0,0.007341,0
 ../data/processed/csv/attack\attacktraffic4.csv_192.168.138.181_192.168.138.187_36379.0,0,0,0.014002,0
@@ -1121,7 +1121,7 @@ session_id,nt_count,trans2_count,duration,label
 ../data/processed/csv/attack\attacktraffic5.csv_192.168.138.181_192.168.138.187_45707.0,0,0,0.007131,0
 ../data/processed/csv/attack\attacktraffic5.csv_192.168.138.181_192.168.138.187_45777.0,0,0,0.014799,0
 ../data/processed/csv/attack\attacktraffic5.csv_192.168.138.181_192.168.138.187_45789.0,0,0,0.016887,0
-../data/processed/csv/attack\attacktraffic5.csv_192.168.138.181_192.168.138.187_46117.0,1,0,10.078555,0
+../data/processed/csv/attack\attacktraffic5.csv_192.168.138.181_192.168.138.187_46117.0,1,8,10.078555,1
 ../data/processed/csv/attack\attacktraffic5.csv_192.168.138.181_192.168.138.187_46813.0,0,0,0.00435,0
 ../data/processed/csv/attack\attacktraffic5.csv_192.168.138.181_192.168.138.1_80.0,0,0,0.500495,0
 ../data/processed/csv/attack\attacktraffic5.csv_192.168.138.187_192.168.138.181_135.0,0,0,0.000383,0
@@ -1149,7 +1149,7 @@ session_id,nt_count,trans2_count,duration,label
 ../data/processed/csv/attack\attacktraffic6.csv_192.168.138.181_151.101.129.91_60510.0,0,0,0.507697,0
 ../data/processed/csv/attack\attacktraffic6.csv_192.168.138.181_192.168.138.184_35011.0,0,1,1.015934,0
 ../data/processed/csv/attack\attacktraffic6.csv_192.168.138.181_192.168.138.184_35981.0,0,0,0.000699,0
-../data/processed/csv/attack\attacktraffic6.csv_192.168.138.181_192.168.138.184_37115.0,1,0,10.039307,0
+../data/processed/csv/attack\attacktraffic6.csv_192.168.138.181_192.168.138.184_37115.0,1,8,10.039307,1
 ../data/processed/csv/attack\attacktraffic6.csv_192.168.138.181_192.168.138.184_4444.0,0,0,215.373098,0
 ../data/processed/csv/attack\attacktraffic6.csv_192.168.138.181_192.168.138.2_nan,0,0,2.776843,0
 ../data/processed/csv/attack\attacktraffic6.csv_192.168.138.181_216.58.204.138_45046.0,0,0,2.58278,0
@@ -1206,7 +1206,7 @@ session_id,nt_count,trans2_count,duration,label
 ../data/processed/csv/attack\attacktraffic7.csv_192.168.138.181_192.168.138.184_44003.0,0,0,0.027563,0
 ../data/processed/csv/attack\attacktraffic7.csv_192.168.138.181_192.168.138.184_44281.0,0,0,0.023099,0
 ../data/processed/csv/attack\attacktraffic7.csv_192.168.138.181_192.168.138.184_4444.0,0,0,52.248615,0
-../data/processed/csv/attack\attacktraffic7.csv_192.168.138.181_192.168.138.184_44535.0,1,0,10.080916,0
+../data/processed/csv/attack\attacktraffic7.csv_192.168.138.181_192.168.138.184_44535.0,1,9,10.080916,1
 ../data/processed/csv/attack\attacktraffic7.csv_192.168.138.181_192.168.138.184_45533.0,0,0,0.026302,0
 ../data/processed/csv/attack\attacktraffic7.csv_192.168.138.181_192.168.138.184_46557.0,0,0,0.030879,0
 ../data/processed/csv/attack\attacktraffic7.csv_192.168.138.181_192.168.138.184_46613.0,0,0,0.02698,0
@@ -1259,7 +1259,7 @@ session_id,nt_count,trans2_count,duration,label
 ../data/processed/csv/attack\attacktraffic8.csv_192.168.138.181_192.168.138.184_33315.0,0,0,0.023149,0
 ../data/processed/csv/attack\attacktraffic8.csv_192.168.138.181_192.168.138.184_34547.0,0,0,0.015586,0
 ../data/processed/csv/attack\attacktraffic8.csv_192.168.138.181_192.168.138.184_35311.0,0,0,0.009947,0
-../data/processed/csv/attack\attacktraffic8.csv_192.168.138.181_192.168.138.184_35713.0,1,0,10.130688,0
+../data/processed/csv/attack\attacktraffic8.csv_192.168.138.181_192.168.138.184_35713.0,1,8,10.130688,1
 ../data/processed/csv/attack\attacktraffic8.csv_192.168.138.181_192.168.138.184_35797.0,0,0,0.019415,0
 ../data/processed/csv/attack\attacktraffic8.csv_192.168.138.181_192.168.138.184_36087.0,0,0,0.007973,0
 ../data/processed/csv/attack\attacktraffic8.csv_192.168.138.181_192.168.138.184_36283.0,0,0,0.018704,0
@@ -1326,7 +1326,7 @@ session_id,nt_count,trans2_count,duration,label
 ../data/processed/csv/attack\attacktraffic9.csv_192.168.138.181_192.168.138.187_33467.0,0,0,0.030414,0
 ../data/processed/csv/attack\attacktraffic9.csv_192.168.138.181_192.168.138.187_33663.0,0,0,0.006935,0
 ../data/processed/csv/attack\attacktraffic9.csv_192.168.138.181_192.168.138.187_33893.0,0,0,0.007627,0
-../data/processed/csv/attack\attacktraffic9.csv_192.168.138.181_192.168.138.187_34631.0,1,0,10.18282,0
+../data/processed/csv/attack\attacktraffic9.csv_192.168.138.181_192.168.138.187_34631.0,1,9,10.18282,1
 ../data/processed/csv/attack\attacktraffic9.csv_192.168.138.181_192.168.138.187_35889.0,0,0,0.028291,0
 ../data/processed/csv/attack\attacktraffic9.csv_192.168.138.181_192.168.138.187_37099.0,0,0,0.019836,0
 ../data/processed/csv/attack\attacktraffic9.csv_192.168.138.181_192.168.138.187_37211.0,0,0,0.008437,0
